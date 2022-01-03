@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/sensovision/cmpt130/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -g -o CMakeFiles/seg6.cpp.dir/main.cpp.o -c /home/sensovision/cmpt130/main.cpp",
+  "file": "/home/sensovision/cmpt130/main.cpp"
+}
+]
